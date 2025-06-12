@@ -20,7 +20,7 @@ You play as a cake master collecting ingredients and baking cakes — all action
 - 🛒 **Collect 3 random ingredients** every day  
 - 🧺 **View your inventory** on-chain    
 - 🔐 100% Solidity — no off-chain logic  
-- 📜 Transparent and verifiable
+- 📜 Transparent and verifiable  
 
 ---
 
