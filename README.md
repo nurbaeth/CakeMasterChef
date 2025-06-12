@@ -23,7 +23,7 @@ You play as a cake master collecting ingredients and baking cakes — all action
 - 📜 Transparent and verifiable  
   
 ---
-  
+    
 ## 🧱 Smart Contract Overview
 
 - `register()`: Become a chef!  
