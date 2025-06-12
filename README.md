@@ -13,7 +13,7 @@ You play as a cake master collecting ingredients and baking cakes — all action
 🧁 **No tokens. No staking. No rewards. Just pure, sweet fun.**  
 
 ---
-
+  
 ## 🚀 Features
  
 - 🧑‍🍳 **Register** as a blockchain pastry chef  
