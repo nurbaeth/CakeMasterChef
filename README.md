@@ -27,7 +27,7 @@ You play as a cake master collecting ingredients and baking cakes — all action
 ## 🧱 Smart Contract Overview 
  
 - `register()`: Become a chef!     
-- `collectIngredients()`: Collect 3 random ingredients (once per day)  
+- `collectIngredients()`: Collect 3 random ingredients (once per day)   
 - `getInventory(ingredient)`: View how many units of each ingredient you own  
 - `getAllIngredients()`: See full ingredient list
 
