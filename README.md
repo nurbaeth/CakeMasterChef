@@ -21,7 +21,7 @@ You play as a cake master collecting ingredients and baking cakes — all action
 - 🧺 **View your inventory** on-chain      
 - 🔐 100% Solidity — no off-chain logic   
 - 📜 Transparent and verifiable    
-  
+   
 --- 
       
 ## 🧱 Smart Contract Overview
