@@ -4,7 +4,7 @@ Welcome to **CakeMasterChef**, the on-chain baking game where YOU are the pastry
 Collect ingredients, bake delicious cakes, and prove you're the sweetest legend on the blockchain.      
      
 ---     
-       
+        
 ## 🍰 What is CakeMasterChef?     
    
 **CakeMasterChef** is a fully on-chain idle-style game written in Solidity.       
