@@ -11,7 +11,7 @@ Collect ingredients, bake delicious cakes, and prove you're the sweetest legend 
 You play as a cake master collecting ingredients and baking cakes — all actions are stored on the Ethereum blockchain for provable fairness.   
       
 🧁 **No tokens. No staking. No rewards. Just pure, sweet fun.**     
-   
+    
 ---   
       
 ## 🚀 Features   
