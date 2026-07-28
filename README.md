@@ -16,7 +16,7 @@ You play as a cake master collecting ingredients and baking cakes — all action
         
 ## 🚀 Features     
      
-- 🧑‍🍳 **Register** as a blockchain pastry chef        
+- 🧑‍🍳 **Register** as a blockchain pastry chef         
 - 🛒 **Collect 3 random ingredients** every day      
 - 🧺 **View your inventory** on-chain           
 - 🔐 100% Solidity — no off-chain logic    
